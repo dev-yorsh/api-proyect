@@ -8,6 +8,5 @@ Proyecto demostración para uso colaborativo
 - JAVA 21
 - AZURE SERVICE BUS
 - AZURE LOGIC APP
-- HTML
-- CSS
-- PHYTON
+- AZURE BLOB STORAGE
+- AZURE SQL SERVER
