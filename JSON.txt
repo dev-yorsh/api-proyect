@@ -1,2 +1,3 @@
 Éste es un archivo de prueba  ese es un archivo de prueba, este archivo será sincronizado con cualquiera de los proyectos que se hayan formado.
 *
+*****
